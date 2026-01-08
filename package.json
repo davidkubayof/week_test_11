@@ -1,0 +1,24 @@
+{
+  "name": "week_test_11",
+  "version": "1.0.0",
+  "description": "David \r Kubayof\r Galil\r 325035095\r \"# week_test_11\" \r # link https://github.com/davidkubayof/week_test_11",
+  "main": "Airport.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkubayof/week_test_11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/davidkubayof/week_test_11/issues"
+  },
+  "homepage": "https://github.com/davidkubayof/week_test_11#readme",
+  "dependencies": {
+    "nanoid": "^5.1.6"
+  }
+}
